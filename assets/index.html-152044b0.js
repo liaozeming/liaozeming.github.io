@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-46da4d62","path":"/tags/erfenfa%20qianzhuihe%20huadongchuangkou/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{a as data};
