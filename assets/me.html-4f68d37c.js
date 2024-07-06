@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as _,s as e}from"./framework-87c4c4c1.js";const o={},n=e("p",null,"人生忽如寄",-1),c=e("p",null,"寿无金石固",-1),l=e("p",null,"万岁更相送",-1),r=e("p",null,"贤圣莫能度",-1),a=[n,c,l,r];function d(i,p){return s(),_("div",null,a)}const h=t(o,[["render",d],["__file","me.html.vue"]]);export{h as default};
